@@ -38,7 +38,7 @@ O Exercism é uma plataforma gratuita que oferece exercícios de programação e
 
 Atualmente estou praticando:
 
-✅ JavaScript
+✅ [JavaScript](./javascript/)
 
 ---
 
